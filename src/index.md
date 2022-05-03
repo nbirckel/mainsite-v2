@@ -1,13 +1,11 @@
 ---
 layout: home
-title: A simple blog
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
+title: 👋 Je suis Nicolas,
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
+Designer depuis 12 ans, j’accompagne startups et PME dans la mise en place de stratégies centrées sur l’utilisateur en appliquant diverses méthodologies telles que la recherche utilisateurs, les ateliers de co-conception, le prototypage d’applications ou services et les tests utilisateurs.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Je suis actuellement à la **recherche d’opportunités pour un poste de designer senior**, dans une équipe sympa, idéalement pour travailler sur des projets **medtech**, **edutech** ou **entertainment**.
