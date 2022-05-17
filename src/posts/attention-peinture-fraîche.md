@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Attention peinture fraîche
+metaDesc: "Attention peinture fraîche : retour au POSSE et au revoir Jekyllrb"
+socialImage: /images/capture-d’écran-2022-05-17-134007.png
 date: 2022-05-17T09:54:43.827Z
 tags:
   - blog
