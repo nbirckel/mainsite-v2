@@ -1,4 +1,3 @@
-const fetch = require("node-fetch");
 const WEBMENTION_BASE_URL = "https://webmention.io/api/mentions.jf2";
 
 module.exports = async () => {
