@@ -5,7 +5,6 @@ date: 2022-05-17T09:54:43.827Z
 tags:
   - blog
   - POSSE
-  - ""
 ---
 J'ai décidé dernièrement de faire un coup de ménage dans ma présence en ligne et de revenir à une approche de celle-ci orientée [POSSE](https://indieweb.org/POSSE).
 
