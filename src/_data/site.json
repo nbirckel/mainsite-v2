@@ -4,10 +4,10 @@
   "shortDesc": "Designer - Maker - Teacher - Photographer",
   "url": "https://www.nicolas-birckel.fr",
   "authorEmail": "hello@nicolas-birckel.fr",
-  "authorHandle": "",
+  "authorHandle": "https://mastodon.social/web/@nbirckel",
   "authorName": "Nicolas Birckel",
   "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/IMAGES/FAVICON.PNG",
   "maxPostsPerPage": 5
 }
