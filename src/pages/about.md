@@ -1,11 +1,16 @@
 ---
 layout: layouts/page.njk
-title: About
+title: About me
 permalink: /about/
 ---
+Sometimes photographer 📸
+Most of the time designer 💡
+Mechanical Keyboard enthusiast !
+
 ## Profil & expertises
 
 ### Compétences 
+
 * Adaptabilité
 * Conceptualisation
 * Design UX/UI
@@ -13,7 +18,9 @@ permalink: /about/
 * Gestion de projets
 * Analyse de données
 * Pédagogie
+
 ### Technologies
+
 * Figma,
 * Axure RP,
 * Sketch,
@@ -42,7 +49,5 @@ J'ai également donné des conférences lors d’événements sur mon metier, so
 
 * Création et animation d’un espace de Coworking à nancy : [La poudrière](http://www.poudriere.org/),
 * Organisation des Startup Weekend Nancy depuis la première édition en octobre 2012.
-
-
 
 [Mon CV détaillé sur Linkedin](https://www.linkedin.com/in/nicolasbirckel/)
