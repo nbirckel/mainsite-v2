@@ -2,7 +2,7 @@
 layout: home
 title: 👋 Je suis Nicolas,
 metaDesc: ""
-postsHeading: Latest posts
+postsHeading: Dernières publications
 archiveButtonText: See all posts
 socialImage: ""
 ---
