@@ -43,9 +43,4 @@
     </article>
   </main>
 {% endblock %}
-{# Get the webmentions for a page #}
-{%- set postMentions = webmentions | webmentionsForPage(page.url) -%}
-{# Get the webmention count for a page #}
-{%- set postMentionCount = webmentions | webmentionCountForPage(page.url) -%}
-<p>{{postMentions}} - {{postMentionCount}}
 {{ content | safe }}
