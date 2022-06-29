@@ -79,3 +79,12 @@ module.exports = function(config) {
     passthroughFileCopy: true
   };
 };
+// Webmentions
+const Webmentions = require("eleventy-plugin-webmentions");
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(Webmentions, {
+    domain: "www.nicolas-birckel.fr",
+    token: "-a-Yj8YaN2kG6-zBnmlTmQ",
+  });
+};
