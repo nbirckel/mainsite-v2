@@ -40,12 +40,12 @@ L﻿'encodeur rotatif visible sur la photo de mon clavier est bien reconnu comme
 
 ## C'est bien beau tout ça, mais ton clavier est en QWERTY !
 
-C﻿'est un choix personnel. Ce clavier "Preonic" fonctionne grâce à un firmware entièrement personnalisable : https://qmk.fm/. Je pourrais très bien le configurer en Dvorak, en Bépo ou en Azerty si je le souhaitais.
+C﻿'est un choix personnel. Ce clavier "Preonic" fonctionne grâce à un firmware entièrement personnalisable : https://qmk.fm/ . Je pourrais très bien le configurer en Dvorak, en Bépo ou en Azerty si je le souhaitais.
 
 J﻿e suis resté en Qwerty pour plusieurs raisons :
 
-* L'écrasante majorité des set de keycaps sont prévu pour Qwerty et, hormis sur certains profils de sculpture de touche, il n'est pas possible d'échanger une touche d'un ligne à l'autre car elles n'ont pas la même forme.
-* U﻿ne fois l'ordinateur configuré en Clavier États-Unis International, taper des majuscules accentuées est d'une telle simplicité.
+* L'écrasante majorité des sets de keycaps sont prévus pour Qwerty et, hormis sur certains profils de sculpture de touche, il n'est pas possible d'échanger une touche d'un ligne à l'autre car elles n'ont pas la même forme.
+* U﻿ne fois l'ordinateur configuré en Clavier États-Unis International, taper des majuscules accentuées est d'une telle simplicité. Faire des Ç, des À et autres É en seulement deux touches change la vie.
 * Une part de flemme, bien qu'il existe des configurateurs visuels pour QMK.
 
 J﻿'ai également la possibilité de rajouter d'autre couches  (jusqu'à 8 sur ce modèle) pour par exemple faire une couche dédié au gaming ou une couche de raccourcis et de macros.
