@@ -6,7 +6,7 @@ date: 2022-09-27T09:38:30.159Z
 ---
 
 
-J﻿'utilise un clavier "Preonic" (ou 50% ortholinéaire) pour travailler sur ordinateur depuis maintenant 1 an. Le therme "ortholinéaire" signifie que toute les touches sont alignées sur une grille. Le pourcentage fait référence au nombre de touches sur le clavier par rapport à un clavier classique, avec une rangée de chiffres, une rangée de touches de fonction, les touches inser/home/etc, les flèches et un pavé numérique.
+J﻿'utilise un clavier "Preonic" (ou 50% ortholinéaire) pour travailler sur ordinateur depuis maintenant 1 an. Le terme "ortholinéaire" signifie que toute les touches sont alignées sur une grille. Le pourcentage fait référence au nombre de touches sur le clavier par rapport à un clavier classique, avec une rangée de chiffres, une rangée de touches de fonction, les touches inser/home/etc, les flèches et un pavé numérique.
 
 ![une photo de mon clavier Preonic](/images/olkb_preonic.jpg "mon clavier Preonic")
 
