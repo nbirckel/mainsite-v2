@@ -15,3 +15,5 @@ Les rangées décalées des claviers sont un artefact résiduel des bras physiqu
 ## E﻿t les symboles dans tout ça ?
 
 I﻿l y a deux touches à gauche et à droite de la barre d'espace. Elles sont appelées respectivement "lower"et "raise" et permettent, lorsque pressées, de basculer entre différentes couches. Par exemple, pour taper un - (tiret) mon clavier utilise "raise"+ j.
+
+j﻿'ai trois couches principales sur mon clavier. Dans les shcémas ci dessous, "lower"et "raise"sont remplacés par "MO n", qui signifie "momentary on"et "n"faisant référence à la couche à activer lorsque j'appuie sur la touche.
