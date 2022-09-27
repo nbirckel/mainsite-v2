@@ -4,8 +4,6 @@ title: Comment j'utilise un clavier 50% comme clavier principal
 socialImage: /images/olkb_preonic.jpg
 date: 2022-09-27T10:15:59.333Z
 ---
-
-
 J﻿'utilise un clavier "Preonic" (ou 50% ortholinéaire) pour travailler sur ordinateur depuis maintenant 1 an. Le terme "ortholinéaire" signifie que toute les touches sont alignées sur une grille. Le pourcentage fait référence au nombre de touches sur le clavier par rapport à un clavier classique, avec une rangée de chiffres, une rangée de touches de fonction, les touches inser/home/etc, les flèches et un pavé numérique.
 
 ![une photo de mon clavier Preonic](/images/olkb_preonic.jpg "mon clavier Preonic")
@@ -32,15 +30,13 @@ j﻿'ai trois couches principales sur mon clavier. Dans les captures ci-dessous,
 
 ![La configuration du layer2](/images/layer2.png "Layer 2")
 
-
-
-U﻿n des gros avantage des couches sur mon clavier est que tout les symboles sont très proches de la ligne de touches de repos, ce qui signifie que je peux les taper sans trop bouger les mains, voire pas du tout. Cela change pas mal des claviers décalé où j'avais pris de mauvaises habitudes : je déplaçais la main ou utilisais le majeur pour aller appuyer sur = par exemple.
+U﻿n des gros avantage des couches sur mon clavier est que tout les symboles sont très proches de la ligne de touches de repos, ce qui signifie que je peux les taper sans trop bouger les mains, voire pas du tout. Cela change pas mal des claviers décalés où j'avais pris de mauvaises habitudes : je déplaçais la main ou utilisais le majeur pour aller appuyer sur = par exemple.
 
 L﻿'encodeur rotatif visible sur la photo de mon clavier est bien reconnu comme une touche dans les différentes couches du clavier. Ce que vous ne voyez pas dans les captures ci dessous c'est ce qu'il fait à la rotation : scrollup et down en couche principale et gestion du volume en couche "raise".
 
 ## C'est bien beau tout ça, mais ton clavier est en QWERTY !
 
-C﻿'est un choix personnel. Ce clavier "Preonic" fonctionne grâce à un firmware entièrement personnalisable : https://qmk.fm/ . Je pourrais très bien le configurer en Dvorak, en Bépo ou en Azerty si je le souhaitais.
+C﻿'est un choix personnel. Ce clavier "Preonic" fonctionne grâce à un firmware entièrement personnalisable : <https://qmk.fm/> . Je pourrais très bien le configurer en Dvorak, en Bépo ou en Azerty si je le souhaitais.
 
 J﻿e suis resté en Qwerty pour plusieurs raisons :
 
@@ -48,7 +44,7 @@ J﻿e suis resté en Qwerty pour plusieurs raisons :
 * U﻿ne fois l'ordinateur configuré en Clavier États-Unis International, taper des majuscules accentuées est d'une telle simplicité. Faire des Ç, des À et autres É en seulement deux touches change la vie.
 * Une part de flemme, bien qu'il existe des configurateurs visuels pour QMK.
 
-J﻿'ai également la possibilité de rajouter d'autre couches  (jusqu'à 8 sur ce modèle) pour par exemple faire une couche dédié au gaming ou une couche de raccourcis et de macros.
+J﻿'ai également la possibilité de rajouter d'autre couches  (jusqu'à 8 sur ce modèle) pour par exemple faire une couche dédié au gaming ou une couche de raccourcis et de macros spécifiques à un logiciel.
 
 ## L﻿e matériel :
 
