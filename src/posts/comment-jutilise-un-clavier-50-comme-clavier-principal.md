@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Comment j'utilise un clavier 50% comme clavier principal
 socialImage: /images/olkb_preonic.jpg
-date: 2022-09-27T09:38:30.159Z
+date: 2022-09-27T10:15:59.333Z
 ---
 
 
