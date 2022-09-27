@@ -12,7 +12,7 @@ J﻿'utilise un clavier "Preonic" (ou 50% ortholinéaire) pour travailler sur or
 
 P﻿lutôt joli, non ?
 
-Les rangées décalées des claviers sont un artefact résiduel des bras physiques de la machine à écrire. Le confort de ne plus avoir à tendre les doigts pour atteindre certaines touches est un vrai plaisir une fois habitué à la disposition ortholinéaire.
+L﻿es rangées décalées des claviers ne sont qu'un vieux reliquat des bras physiques de la machine à écrire, qui n'a plus lieux d'être à l'heure du tout informatique. Le confort de ne plus avoir à tendre les doigts pour atteindre certaines touches est un vrai plaisir une fois habitué à la disposition ortholinéaire.
 
 ## E﻿t les symboles dans tout ça ?
 
