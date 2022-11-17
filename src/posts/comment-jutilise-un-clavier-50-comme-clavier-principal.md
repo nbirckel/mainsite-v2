@@ -3,6 +3,10 @@ layout: layouts/post.njk
 title: Comment j'utilise un clavier 50% comme clavier principal
 socialImage: /images/olkb_preonic.jpg
 date: 2022-09-27T10:15:59.333Z
+tags:
+  - blog
+  - hardware
+  - keyboard
 ---
 J﻿'utilise un clavier "Preonic" (ou 50% ortholinéaire) pour travailler sur ordinateur depuis maintenant 1 an. Le terme "ortholinéaire" signifie que toute les touches sont alignées sur une grille. Le pourcentage fait référence au nombre de touches sur le clavier par rapport à un clavier classique, avec une rangée de chiffres, une rangée de touches de fonction, les touches inser/home/etc, les flèches et un pavé numérique.
 
