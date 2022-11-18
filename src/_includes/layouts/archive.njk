@@ -1,11 +1,11 @@
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
-{% set introHeading = title %}
+{% set introHeading = 'Archive des publications' %}
 {% set introSummary %}{{ content | safe }}{% endset %}
 
 {# Post list content #}
-{% set postListHeading = 'All posts' %}
+{% set postListHeading = 'Tout les articles' %}
 {% set postListItems = collections.posts %}
 
 {% block content %}
