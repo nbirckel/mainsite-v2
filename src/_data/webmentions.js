@@ -3,7 +3,7 @@ const fs = require("fs");
 const domain = "www.nicolas-birckel.fr";
 // Load .env variables with dotenv
 // Define Cache Location and API Endpoint
-const CACHE_FILE_PATH = '_cache/webmentions.json'
+const CACHE_FILE_PATH = '_webmentioncache/webmentions.json'
 const API = 'https://webmention.io/api'
 const TOKEN = "qwDCsAzIelPmmg-nPbM3Bw"
 async function fetchWebmentions(since, perPage = 10000) {
