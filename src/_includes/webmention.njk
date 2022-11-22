@@ -8,7 +8,7 @@
       <img src="{{ '/img/avatar.svg' | url }}" alt="" width="48" height="48">
       {% endif %}
       <span>
-        <a class="h-card u-url post-list__list" {% if webmention.url %}href="{{ webmention.url }}" {% endif %} target="_blank" rel="noopener noreferrer"><strong class="p-name">{{ webmention.author.name }}</strong></a>
+        <a class="h-card u-url post-list__link" {% if webmention.url %}href="{{ webmention.url }}" {% endif %} target="_blank" rel="noopener noreferrer"><strong class="p-name">{{ webmention.author.name }}</strong></a>
       </span>
     {% else %}
       <span>
