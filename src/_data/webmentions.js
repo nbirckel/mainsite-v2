@@ -1,5 +1,7 @@
 // _data/webmentions.js
 const fs = require("fs");
+const fetch = require('node-fetch');
+const unionBy = require('lodash/unionBy');
 const domain = "www.nicolas-birckel.fr";
 // Load .env variables with dotenv
 // Define Cache Location and API Endpoint
