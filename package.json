@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "make-dir-cli": "^3.0.0",
     "netlify-plugin-cache-folder": "^0.0.8",
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^2.6.7",
     "prettier": "^1.19.1",
     "rollup": "^1.32.1",
     "rollup-plugin-commonjs": "^10.1.0",
