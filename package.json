@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "make-dir-cli": "^3.0.0",
     "netlify-plugin-cache-folder": "^0.0.8",
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^2.6.7",
     "prettier": "^1.19.1",
     "rollup": "^1.32.1",
     "rollup-plugin-commonjs": "^10.1.0",
@@ -43,7 +43,7 @@
     "cms:bundle": "rollup --config",
     "start": "concurrently \"npm run sass:process -- --watch\" \"npm run cms:bundle -- --watch\" \"chokidar \\\"src/_includes/**\\\" -c \\\"npm run cms:precompile\\\"\" \"npm run serve\"",
     "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
-    "production": "npm run sass:process && npm run cms:precompile && npm run cms:bundle && npx eleventy"
+    "production": " npm run sass:process && npm run cms:precompile && npm run cms:bundle && NODE_ENV=production npx eleventy"
   },
   "repository": {
     "type": "git",
