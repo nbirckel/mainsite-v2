@@ -61,7 +61,7 @@ module.exports = function(config) {
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
   config.addPlugin(Webmentions, {
-    domain: "nicolas-birckel.fr",
+    domain: "www.nicolas-birckel.fr",
     token: "qwDCsAzIelPmmg-nPbM3Bw"
   });
 
