@@ -1,6 +1,6 @@
 // _data/webmentions.js
 const fs = require("fs");
-const domain = "nicolas-birckel.fr";
+const domain = "www.nicolas-birckel.fr";
 // Load .env variables with dotenv
 // Define Cache Location and API Endpoint
 const CACHE_FILE_PATH = '_cache/webmentions.json'
