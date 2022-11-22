@@ -1,11 +1,13 @@
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const Webmentions = require("eleventy-plugin-webmentions");
 const fs = require('fs');
 
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
 const markdownFilter = require('./src/filters/markdown-filter.js');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
+const wmfilters = require('./wmfilters.js');
 
 // Import transforms
 const htmlMinTransform = require('./src/transforms/html-min-transform.js');
@@ -19,6 +21,9 @@ module.exports = function(config) {
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
   config.addFilter('w3DateFilter', w3DateFilter);
+  Object.keys(wmfilters).forEach(filterName => {
+    config.addFilter(filterName, wmfilters[filterName])
+  });
 
   // Layout aliases
   config.addLayoutAlias('home', 'layouts/home.njk');
@@ -55,6 +60,10 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(Webmentions, {
+    domain: "nicolas-birckel.fr",
+    token: "qwDCsAzIelPmmg-nPbM3Bw"
+  });
 
   // 404
   config.setBrowserSyncConfig({
