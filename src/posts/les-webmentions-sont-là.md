@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Les Webmentions sont là !
-date: 2022-11-23T07:56:57.914Z
+date: 2022-11-23T09:17:07.658Z
 tags:
   - blog
   - update
@@ -16,7 +16,7 @@ A﻿près quelques péripéties pour trouver comment modifier mon site [Eleventy
 
 D﻿ans mon cas, cela me permet d'afficher en pied d'article, les différents reposts, like et réponses faits en lien avec l'article.
 
-### L﻿a mise en place de Webmentions sous Eleventy
+### L﻿a mise en place de Webmention sous Eleventy
 
 J﻿e ne vais pas vous mentir, n'étant pas développeur j'en ai bavé 😅
 
