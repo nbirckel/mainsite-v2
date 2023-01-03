@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 2022 en quelques lignes
-date: 2023-01-03T08:17:14.138Z
+date: 2023-01-03T11:05:44.576Z
 tags:
   - blog
   - "2022"
