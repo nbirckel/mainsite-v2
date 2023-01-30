@@ -7,7 +7,7 @@ tags:
   - "2022"
   - bilan
 ---
-J﻿'ai vu passer l'idée sur les blogs d'[Eiffair](www.eiffair.fr) et de [Thibaudd](https://tbdd.be/) : lister les trucs cools de l'année écoulée, en 50 ou 100 lignes.
+J﻿'ai vu passer l'idée sur les blogs d'[Eiffair](https://www.eiffair.fr) et de [Thibaudd](https://tbdd.be/) : lister les trucs cools de l'année écoulée, en 50 ou 100 lignes.
 J﻿e trouve cela plutôt intéressant et positif, j'ai donc décidé de me prêter à l'exercice sans me fixer de nombre de lignes à atteindre pour la première fois.
 
 1. M﻿on CDD à l'Université de Lorraine a été renouvelé pour 2023.
