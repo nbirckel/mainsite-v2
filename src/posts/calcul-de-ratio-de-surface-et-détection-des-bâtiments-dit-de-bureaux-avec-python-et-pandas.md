@@ -37,35 +37,35 @@ C﻿ela ressort un fichier Excel structuré comme cela :
 
 1﻿291 lignes, avec pas mal d'informations en doublon et une structure qui ne permet pas de faire facilement mes calculs de ratio.
 
-### l﻿e script python, décortiqué
+### Mon script python, décortiqué
 
-```
+```python
 import pandas as pd
 ```
 
 O﻿n importe la lib Pandas, qui va nous permettre de manipuler, nettoyer et structurer nos données.
 
-```
+```python
 df= pd.read_excel('export_GTP.xls')
 ```
 
 O﻿n crée un dataFrame avec les données lu depuis le fichier Excel exporté depuis la GTP.
 
-```
+```python
 df2= df.pivot(index='Bâtiment', columns='Code surface', values='Surface calculée')
 df2= df2.reset_index()
 ```
 
 O﻿n pivote le dataFrame pour avoir les bâtiments en index et les valeurs de Code surface en colonnes et on le duplique dans un second dataFrame.
 
-```
+```python
 df.drop(['Code surface', 'Surface calculée'], axis=1, inplace=True)
 df.drop_duplicates(inplace=True)
 ```
 
 O﻿n supprime les données de Code surface et Surface calculée dans le premier dataFrame puis en élimine tout les doublons de Bâtiment et de Nombre de poste de travail.
 
-```
+```python
 df2= df2.set_index('Bâtiment').join(df.set_index('Bâtiment'))
 df2.rename(columns={"Nombre de postes de travail":'pdt'}, inplace=True)
 df2.drop(['SHOB', 'SHON'], axis=1, inplace=True)
@@ -73,7 +73,7 @@ df2.drop(['SHOB', 'SHON'], axis=1, inplace=True)
 
 O﻿n joint les deux dataFrames en utilisant la colonne Bâtiment comme index de jointure, on renomme Nombre de poste de travail pour se simplifier la vie et on retire deux colonnes de surfaces qui ne sont pas utiles.
 
-```
+```python
 df2= df2.assign(sun_sub= lambda x: x.SUN / x.SUB)
 df2= df2.assign(sun_pdt= lambda x: x.SUN / x.pdt )
 df2.rename(columns={"sun_pdt":'SUN/pdt', "sun_sub":'SUN/SUB'}, inplace=True)
@@ -81,7 +81,7 @@ df2.rename(columns={"sun_pdt":'SUN/pdt', "sun_sub":'SUN/SUB'}, inplace=True)
 
 O﻿n crée deux nouvelles colonnes dans notre dataFrame que l'on peuple avec les ratios calculés d'après les valeurs des colonnes SUN, SUB et pdt, suivi d'un renommage des libellés de colonnes.  
 
-```
+```python
 df2= df2.reset_index()
 df2= df2.assign(bat_de_bureau='')
 for i in range(len(df2)):
