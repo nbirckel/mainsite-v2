@@ -49,7 +49,7 @@ O﻿n importe la lib Pandas, qui va nous permettre de manipuler, nettoyer et str
 df= pd.read_excel('export_GTP.xls')
 ```
 
-O﻿n crée un dataFrame avec les données lu depuis le fichier Excel exporté depuis la GTP.
+O﻿n crée un dataFrame avec les données lues depuis le fichier Excel exporté depuis la GTP.
 
 ```python
 df2= df.pivot(index='Bâtiment', columns='Code surface', values='Surface calculée')
