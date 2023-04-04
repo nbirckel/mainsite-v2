@@ -27,7 +27,7 @@ J﻿'ai créé une requête dans la GTP pour extraire les données de l'attribut
 C﻿ela ressort un fichier Excel structuré comme cela :
 
 | ﻿Bâtiment    | Nombre de poste de travail | Code surface | Surface calculée |
-| ------------ | -------------------------- | ------------ | ---------------- |
+| :------------ | :--------------------------: | :------------: | :----------------: |
 | ﻿ Bâtiment A | 78                         | SDP          | 2 890,57         |
 | ﻿ Bâtiment A | 78                         | SHOB         | 3917,27          |
 | ﻿ Bâtiment A | 78                         | SHON         | 3272,12          |
@@ -102,7 +102,7 @@ P﻿our finir, on exporte au format Excel le dataFrame, pour import dans la GTP.
 L﻿e fichier de sortie est structuré sans doublon, avec une donnée par colonne sur les 259 lignes et peut-être importer en l'état dans la GTP !
 
 | Bâtiment   | SDP     | SUB     | SUN     | pdt | SUN/SUB     | SUN/pdt     | bat_de_bureau |
-| ---------- | ------- | ------- | ------- | --- | ----------- | ----------- | ------------- |
+| :---------- | :-------: | :-------: | :-------: | :---: | :-----------: | :-----------: | ---|
 | Bâtiment A | 8725,78 | 8229,78 | 1731,87 | 74  | 0,210439404 | 23,40364865 |               |
 | Bâtiment B | 5794,95 | 5373,75 | 690,71  | 47  | 0,128534078 | 14,69595745 |               |
 | Bâtiment C | 2055,09 | 1881,79 | 1365,47 | 71  | 0,725622944 | 19,23197183 | oui           |
