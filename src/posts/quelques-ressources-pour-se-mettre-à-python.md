@@ -7,9 +7,9 @@ tags:
   - Learning
   - ""
 ---
-Quelques ressources que j'ai trouvé utiles pour découvrir le langage Python.
+Quelques ressources que j'ai trouvées utiles pour découvrir le langage Python.
 
-### Codecademy : 
+### Codecademy :
 
 Codecademy propose une introduction interactive à Python en ligne. La plateforme offre des leçons interactives, des projets pratiques et des quiz pour aider les apprenants à maîtriser la syntaxe de base de Python. (<https://www.codecademy.com/learn/learn-python>)
 
@@ -17,7 +17,7 @@ Codecademy propose une introduction interactive à Python en ligne. La plateform
 
  Ce livre est une excellente ressource pour les débutants qui souhaitent apprendre Python. Il couvre les concepts de base et propose des projets pratiques pour aider les apprenants à appliquer leurs connaissances. (<https://www.editions-eyrolles.com/Livre/9782212678459/apprenez-a-programmer-en-python-2e-edition>)
 
-### Le site Web de Python.org : 
+### Le site Web de Python.org :
 
 Python.org est le site Web officiel de la communauté Python. Il propose de la documentation, des guides de démarrage rapide et une variété de ressources pour les développeurs de tous niveaux. (<https://www.python.org/>)
 
