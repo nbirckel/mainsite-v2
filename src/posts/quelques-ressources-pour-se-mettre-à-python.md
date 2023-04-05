@@ -33,7 +33,7 @@ Python.org est le site Web officiel de la communauté Python. Il propose de la d
 
 <https://developers.google.com/edu/python/>
 
-### Le mooc :  Python : des fondamentaux aux concepts avancés du langage sur France-Mooc
+### Le mooc :  Python : des fondamentaux aux concepts avancés du langage sur Fun-Mooc
 
 D﻿'une durée de 9 semaines, il donne les bases pour apprendre à bien programmer en Python, à écrire rapidement des programmes efficaces, faciles à comprendre et à maintenir qui exploitent pleinement les possibilités du langage ! 
 
