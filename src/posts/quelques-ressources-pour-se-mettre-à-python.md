@@ -5,7 +5,6 @@ date: 2023-04-11T07:45:31.333Z
 tags:
   - Python
   - Learning
-  - ""
 ---
 Quelques ressources que j'ai trouvées utiles pour découvrir le langage Python.
 
