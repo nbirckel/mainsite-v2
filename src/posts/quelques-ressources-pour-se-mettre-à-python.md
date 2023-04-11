@@ -6,7 +6,7 @@ tags:
   - Python
   - Learning
 ---
-Quelques ressources que j'ai trouvées utiles pour découvrir le langage Python.
+Quelques ressources que j'ai trouvées utiles pour découvrir le langage Python :
 
 ### Codecademy :
 
