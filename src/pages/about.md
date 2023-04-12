@@ -20,7 +20,7 @@ BIM Data Manager 📊 , Photographer 📸, Designer 💡, Mechanical Keyboard en
 ### Technologies
 
 * Python
-*﻿ Pandas
+* P﻿andas
 * Html/CSS/JS
 * Figma 
 * Suite Adobe
