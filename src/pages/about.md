@@ -3,6 +3,7 @@ layout: layouts/page.njk
 title: About me
 permalink: /about/
 ---
+BIM Data Manager 
 Sometimes photographer 📸
 Most of the time designer 💡
 Mechanical Keyboard enthusiast !
