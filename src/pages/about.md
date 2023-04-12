@@ -11,19 +11,19 @@ BIM Data Manager 📊 , Photographer 📸, Designer 💡, Mechanical Keyboard en
 
 * Adaptabilité
 * Conceptualisation
-* Design UX/UI
-* Prise de vue photographie / vidéo
 * Gestion de projets
 * Analyse de données
+* Design UX/UI
+* Prise de vue photographie / vidéo
 * Pédagogie
 
 ### Technologies
 
-* Figma,
-* Axure RP,
-* Sketch,
-* Suite Adobe,
-* Html/css,
+* Python
+*﻿ Pandas
+* Html/CSS/JS
+* Figma 
+* Suite Adobe
 * Logiciels Affinity, etc.
 
 ### Education
