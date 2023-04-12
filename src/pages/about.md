@@ -9,10 +9,10 @@ BIM Data Manager 📊 , Photographer 📸, Designer 💡, Mechanical Keyboard en
 
 ### Compétences 
 
-* Adaptabilité
 * Conceptualisation
-* Gestion de projets
 * Analyse de données
+* Gestion de projets
+* Adaptabilité
 * Design UX/UI
 * Prise de vue photographie / vidéo
 * Pédagogie
