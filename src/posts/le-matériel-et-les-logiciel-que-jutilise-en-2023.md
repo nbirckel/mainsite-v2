@@ -12,7 +12,7 @@ Si vous avez des questions, n’hésitez pas à me les poser sur [Mastodon](http
 ## Hardware
 
 * **iPad Pro 10,5 (2017)** : ma machine à tout faire, accompagnée de son clavier Logitech Combo Touch et d'un Apple Pencil.
-* **iPhone XR (2018)** : il marche toujours aussi bien et la batterie tiens encore quasiment la journée, aucune raison d'en changer !
+* **iPhone XR (2018)** : il marche toujours aussi bien et la batterie tient encore quasiment la journée, aucune raison d'en changer !
 * **Raspberry Pi 3 model B** : tournant sous dietPi. mon cloud perso est installé dessus.
 * **Fujifilm XT-20** : mon fidèle mirrorless, qui commence à présenter de gros signes de fatigue :/
 
