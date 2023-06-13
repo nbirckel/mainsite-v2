@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Le matériel et les logiciel que j'utilise en 2023
+title: Le matériel et les logiciels que j'utilise en 2023
 date: 2023-06-15T10:28:40.304Z
 tags:
   - blog
