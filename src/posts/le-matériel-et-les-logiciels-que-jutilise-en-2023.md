@@ -38,6 +38,7 @@ J'ai également un macbook pro early 2015, mais que je n'utilise plus.
 * **Pages** : le Word d'Apple.
 * **Numbers** : l'Excel d'Apple.
 * **FreeForm** : l'outil de tableau blanc d'iOS 16,très pratique pour faire des schémas et du mindmapping.
+* **M﻿arkdown Editor and Reader** : Pour écrire du markdown sur l'Ipad
 
 ### Montage vidéo
 
