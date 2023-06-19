@@ -65,7 +65,7 @@ J'ai également un macbook pro early 2015, mais que je n'utilise plus.
 
 ### Productivité et organisation
 
-* **Notion** : ma petite knwonlegde base perso, j'y documente plein de choses : de la planification de voyage à ma ludothèque en passant par un livre de recette.
+* **Notion** : ma petite knowlegde base perso, j'y documente plein de choses : de la planification de voyage à ma ludothèque en passant par un livre de recette.
 * **Bitwarden** : mon gestionnaire de mot de passe favori après l'abandon de miniKeepPass sur iOS.
 * **Raindrop.io** : Un super gestionnaire de bookmarks/quotes/etc.
 * **Notes et Rappels** : Applications de bases d'iOS dont les options de partages sont bien pratiques, notamment les notes et listes partagées avec madame.
