@@ -63,4 +63,5 @@ Cela permet d'ajouter des données directement depuis la page principale sans av
 ## Envie de l'essayer ?
 
 Si vous souhaiter l'essayer, le template est disponible gratuitement sur Gumroad : [Notion Personal Games Library](https://nbirckel.gumroad.com/l/kowtl)
+
 Je suis preneur de vos retours et idées d'amélioration sur Mastodon : <https://mastodon.social/@nbirckel>
