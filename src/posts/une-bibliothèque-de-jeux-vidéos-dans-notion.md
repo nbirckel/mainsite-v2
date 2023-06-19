@@ -9,6 +9,8 @@ tags:
 ---
 Dernièrement, j'ai voulu me créer un système pour tenir à jour ma bibliothèque de jeux vidéos, comme je le faisais il y a quelques années sous Trello. J'ai décidé de faire ça dans Notion que j'utilise de plus en plus.
 
+![](/images/notion-personal-games-library.png)
+
 ## Ce que je voulais pour ma bibliothèque de jeux
 
 * pouvoir afficher les jeux en cours,
@@ -60,5 +62,5 @@ Cela permet d'ajouter des données directement depuis la page principale sans av
 
 ## Envie de l'essayer ?
 
-Si vous souhaiter l'essayer, le template est disponible gratuitement sur Gumroad : [\[Notion] Personal Games Library](https://nbirckel.gumroad.com/l/kowtl)
+Si vous souhaiter l'essayer, le template est disponible gratuitement sur Gumroad : \[[Notion] Personal Games Library](https://nbirckel.gumroad.com/l/kowtl)
 Je suis preneur de vos retours et idées d'amélioration sur Mastodon : <https://mastodon.social/@nbirckel>
