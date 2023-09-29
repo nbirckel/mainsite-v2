@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Photographies
-permalink: photographies
+permalink: /photographies/
 ---
 Afin de faciliter ma gestion de site et de domaine, je n'ai pas renouvelé mon domaine dédié à la photographie.
 
