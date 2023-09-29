@@ -10,5 +10,4 @@ Vous pouvez maintenant retrouver mes photographies sur [Pixelfed](https://pixelf
 <iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/nbirckel/embed" class="pixelfed__embed" style="display: block; height:600px; max-width: 100%; border: 0px ; margin-bottom: 60px"  allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
 
 
-
 N﻿'hésitez pas à me suivre là haut !
