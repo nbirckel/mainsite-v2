@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Photographies
 permalink: /photographies/
 ---
-Afin de faciliter ma gestion de site et de domaine, je n'ai pas renouvelé mon domaine dédié à la photographie.
+Afin de faciliter ma gestion de sites et de domaines, je n'ai pas renouvelé mon domaine dédié à la photographie.
 
 Vous pouvez maintenant retrouver mes photographies sur [Pixelfed](https://pixelfed.social/nbirckel/), que j'utilise à la place d'Instagram et maintenant d'un site dédié.
 
