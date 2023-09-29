@@ -91,9 +91,9 @@
       //  -50%
       //); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
       position: relative;
-      height:1000px;
+      height:520px;
       @include media-query('md') {
-      height:550px;
+      height:1000px;
     }
     }
 
