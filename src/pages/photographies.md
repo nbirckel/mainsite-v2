@@ -7,4 +7,8 @@ Afin de faciliter ma gestion de site et de domaine, je n'ai pas renouvelé mon d
 
 Vous pouvez maintenant retrouver mes photographies sur [Pixelfed](https://pixelfed.social/nbirckel/), que j'utilise à la place d'Instagram et maintenant d'un site dédié.
 
-<iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/nbirckel/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="100%" height="1000px" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+<iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/nbirckel/embed" class="pixelfed__embed" style="display: block; height:600px; max-width: 100%; border: 0px ; margin-bottom: 60px"  allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+
+
+
+N﻿'hésitez pas à me suivre là haut !
