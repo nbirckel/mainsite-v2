@@ -92,12 +92,11 @@
       //); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
       position: relative;
       height:1000px;
-    }
-    @include media-query('md') {
-    .video-player {
+      @include media-query('md') {
       height:550px;
     }
-  }
+    }
+
 
     figure img,
     pre > code,
