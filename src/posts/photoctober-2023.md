@@ -17,7 +17,7 @@ Yann a partagé ceux-ci, ainsi qu'une FAQ sur le Photoctober, sous forme d'image
 ## les thèmes
 
 | Jour | thème 1            | thème 2                        |
-| ---- | ------------------ | ------------------------------ |
+| ---- | ------------------ | -----------------------------: |
 | 1    | À dominante rouge  | Interdit                       |
 | 2    | Ancien souvenir    | Verticales                     |
 | 3    | Silencieux         | Pâtisserie                     |
