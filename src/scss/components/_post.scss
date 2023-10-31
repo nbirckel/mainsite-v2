@@ -81,7 +81,6 @@
     }
 
     figure,
-    pre > code,
     .video-player,
     video {
       //width: 100vw;
@@ -96,7 +95,15 @@
       height:1000px;
     }
     }
-
+    pre > code {
+      //width: 100vw;
+      max-width: map-get($metrics, 'wrap-max-width');
+     // margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+      //transform: translateX(
+      //  -50%
+      //); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
+      position: relative;
+    }
 
     figure img,
     pre > code,
