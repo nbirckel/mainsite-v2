@@ -34,7 +34,7 @@ la déclaration de variables utilisées avec matplotlib : couleur de texte, de f
 
 Je crée également une variable date qui sera utilisée pour la sauvegarde du rendu.
 
-Et surtout les variables pour ridge-map : nombre de lignes à tracer, nombre de points d'élévation, l'exagération de l'élévation et bien sur les coordonnées de la zone à tracer. Celle-ci sont récupérable via le site <http://bboxfinder.com>
+Et surtout les variables pour ridge-map : nombre de lignes à tracer, nombre de points d'élévation, l'exagération de l'élévation et bien sur les coordonnées de la zone à tracer. Celles-ci sont récupérables via le site <http://bboxfinder.com>
 
 ```python
 now = datetime.now() # current date and time
