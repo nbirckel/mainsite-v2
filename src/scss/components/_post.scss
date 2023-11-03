@@ -80,7 +80,6 @@
       --flow-space: #{get-size('max')};
     }
 
-    figure,
     .video-player,
     video {
       //width: 100vw;
@@ -95,6 +94,7 @@
       height:1000px;
     }
     }
+    figure,
     pre > code {
       //width: 100vw;
       max-width: map-get($metrics, 'wrap-max-width');
