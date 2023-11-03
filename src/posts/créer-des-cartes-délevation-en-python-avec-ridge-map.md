@@ -13,7 +13,7 @@ Je suis plutôt fan du rendu artistique obtenu sur les quelques tests que j'ai p
 
 ## Quelques exemples de rendus :
 
-![Chaîne des Puys](/images/20231103_1044_chaîne-des-puys_greys_r_l50_e100_v30_w8_h12.png "Chaîne des Puys")
+![Chaîne des Puys](/images/20231103_1044_-puys_greys_r_l50_e100_v30_w8_h12.png "Chaîne des Puys")
 
 ![La région de Beaufort](/images/20231103_0924_beaufort_greys_r_l50_e202_v30_w8_h12.png "La région de Beaufort")
 
