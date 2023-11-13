@@ -52,7 +52,7 @@ df= pd.read_excel('export_GTP.xls')
 O﻿n crée un dataFrame avec les données lues depuis le fichier Excel exporté depuis la GTP.
 
 ```python
-df2= df.pivot(index='Bâtiment', columns='Code surface', values='Surface calculée')
+df2= df.pivot_table(index='Bâtiment', columns='Code surface', values='Surface calculée')
 df2= df2.reset_index()
 ```
 
