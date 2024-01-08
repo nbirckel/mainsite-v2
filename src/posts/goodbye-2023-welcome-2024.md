@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: goodbye 2023, welcome 2024 !
+title: Goodbye 2023, welcome 2024 !
 date: 2024-01-08T10:52:55.379Z
 ---
 Je vous souhaite une année 2024 épanouissante et riche en expériences !
