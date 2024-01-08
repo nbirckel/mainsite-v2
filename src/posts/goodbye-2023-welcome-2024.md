@@ -42,7 +42,7 @@ Je vous souhaite une année 2024 épanouissante et riche en expériences !
 32. J'ai organisé une chasse au trésor en foret pour les 10 ans de mon fils.
 33. C'est le meilleur anniversaire qu'il a fait d'après lui.
 34. J'ai une souris ergonomique au bureau, ça change la vie.
-35. J'ai appris un poser un toilette.
+35. J'ai appris à poser un toilette.
 36. Je me suis mis au tricot.
 37. J'ai donc offert des mitaines en laine à tout le monde ;)
 38. J'ai revendu à regret mon 35mm car mon boitier ne le faisait plus fonctionner.
