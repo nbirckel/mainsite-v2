@@ -9,7 +9,7 @@ Dernière mise à jour : le 08 janvier 2024.
 
 ## Où je vis maintenant :
 
-J'habite toujours en banlieue de Nancy, où j'ai acheté un appartement avec ma compagne en 2023.
+J'habite toujours en banlieue de Nancy, où j'ai acheté un appartement avec ma compagne en 2022.
 
 ## Ce que je fais actuellement :
 
