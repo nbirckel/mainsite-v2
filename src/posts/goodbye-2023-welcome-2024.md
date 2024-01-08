@@ -30,33 +30,33 @@ Je vous souhaite une année 2024 épanouissante et riche en expériences !
 20. On a commencé 2023 par une rando des le 1er janvier.
 21. On a retapé deux vieux meubles chinés.
 22. On s'est inscrit dans une amap pour manger des légumes locaux et de saison.
-23. Les manif contre la réformes de retraite c'était bonne ambiance.
+23. Les manif contre la réforme de retraite c'était bonne ambiance.
 24. On a emmené les enfants visiter des mines de fer du coin.
 25. Et également Verdun.
 26. Le spectacle de chorale de ma fille était sympa.
 27. Tout comme son spectacle de théâtre.
 28. Le géocaching pour motiver les enfants en rando ça marche très bien !
-30. Pas de Covid cette année.
-31. Ma mère est revenue de très loin suite à un accident cardiaque lors d'une opération.
-32. On a fait de très belles randonnées dans les Vosges au printemps.
-33. J'ai organisé une chasse au trésor en foret pour les 10 ans de mon fils.
-34. C'est le meilleur anniversaire qu'il a fait d'après lui.
-35. J'ai une souris ergonomique au bureau, ça change la vie.
-36. J'ai appris un poser un toilette.
-37. Je me suis mis au tricot.
-38. J'ai donc offert des mitaines en laine à tout le monde ;)
-39. J'ai revendu à regret mon 35mm car mon boitier ne le faisait plus fonctionner.
-40. On a fait de belles balades en vélo avec mon fils.
-41. Mes enfants apprennent à jouer à Street Fighter et c'est cool !
-42. Je suis passé à une cafetière Pour Over, et j'aime beaucoup préparer du café avec.
-43. On a passé plusieurs journées à visiter le Luxembourg.
-44. Merci les transports en commun gratuits là haut.
-45. J'ai appris à changer un roue.
-46. Je prends de plus en plus de plaisir à bosser avec python et pandas.
-47. Baldur Gate 3 était vraiment excellent.
-48. Pour Noël et nouvel an, j'ai fait 6kg de pain d'épices. Et tout a été mangé !
+29. Pas de Covid cette année.
+30. Ma mère est revenue de très loin suite à un accident cardiaque lors d'une opération.
+31. On a fait de très belles randonnées dans les Vosges au printemps.
+32. J'ai organisé une chasse au trésor en foret pour les 10 ans de mon fils.
+33. C'est le meilleur anniversaire qu'il a fait d'après lui.
+34. J'ai une souris ergonomique au bureau, ça change la vie.
+35. J'ai appris un poser un toilette.
+36. Je me suis mis au tricot.
+37. J'ai donc offert des mitaines en laine à tout le monde ;)
+38. J'ai revendu à regret mon 35mm car mon boitier ne le faisait plus fonctionner.
+39. On a fait de belles balades en vélo avec mon fils.
+40. Mes enfants apprennent à jouer à Street Fighter et c'est cool !
+41. Je suis passé à une cafetière Pour Over, et j'aime beaucoup préparer du café avec.
+42. On a passé plusieurs journées à visiter le Luxembourg.
+43. Merci les transports en commun gratuits là haut.
+44. J'ai appris à changer un roue.
+45. Je prends de plus en plus de plaisir à bosser avec python et pandas.
+46. Baldur Gate 3 était vraiment excellent.
+47. Pour Noël et nouvel an, j'ai fait 6kg de pain d'épices. Et tout a été mangé !
 
-## Quelques envies et projets pour 2024 
+## Quelques envies et projets pour 2024
 
 1. Maintenant que mon dossier de VAE est validé, en 2024 j'ai mon diplôme !
 2. Je pense à passer une certification Python/Pandas.
