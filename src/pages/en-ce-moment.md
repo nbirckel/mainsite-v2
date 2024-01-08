@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: En ce moment
 permalink: /now/
 ---
-C'est une [now page](https://nownownow.com/about), inspiré par une visite du site [nownownow.com](nownownow.com).
+Bienvenue sur ma [now page](https://nownownow.com/about), inspirée par une visite du site [nownownow.com](nownownow.com).
 
 Dernière mise à jour : le 08 janvier 2024.
 
