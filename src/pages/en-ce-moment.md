@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: En ce moment
 permalink: /now/
 ---
-C'est une [now page](https://nownownow.com/about), inspiré par une visite du site [nownownow.com](nownownow.com).
+Bienvenue sur ma [now page](https://nownownow.com/about), inspirée par une visite du site [nownownow.com](nownownow.com).
 
 Dernière mise à jour : le 08 janvier 2024.
 
@@ -20,4 +20,5 @@ J'exploite également ces données pour en sortir des indicateurs nécessaires �
 ## Ce qui occupe mon temps libre en ce moment :
 
 Mon temps libre est partagé entre les jeux vidéos, la lecture (majoritairement Sci-fi), le tricot et la randonnée avec ma compagne et mes enfants.
+
 En ce moment je lis : *Building a second brain* de Tiago Forte , je joue à [Star ocean 6](https://starocean.square-enix-games.com/fr) et [Street Fighter 6](https://www.streetfighter.com/6/fr) sur PS5.
