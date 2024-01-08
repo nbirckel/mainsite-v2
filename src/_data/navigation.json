@@ -16,6 +16,10 @@
     {
       "text": "About",
       "url": "/About"
+    },
+    {
+      "text": "Now",
+      "url": "/now"
     }
   ]
 }
