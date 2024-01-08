@@ -20,4 +20,5 @@ J'exploite également ces données pour en sortir des indicateurs nécessaires �
 ## Ce qui occupe mon temps libre en ce moment :
 
 Mon temps libre est partagé entre les jeux vidéos, la lecture (majoritairement Sci-fi), le tricot et la randonnée avec ma compagne et mes enfants.
+
 En ce moment je lis : *Building a second brain* de Tiago Forte , je joue à [Star ocean 6](https://starocean.square-enix-games.com/fr) et [Street Fighter 6](https://www.streetfighter.com/6/fr) sur PS5.
