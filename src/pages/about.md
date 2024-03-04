@@ -3,8 +3,6 @@ layout: layouts/page.njk
 title: About me
 permalink: /about/
 ---
-BIM Data Manager 📊 , Photographer 📸, Designer 💡, Mechanical Keyboard enthusiast !
-
 ## Profil & expertises
 
 ### Compétences 
@@ -22,11 +20,12 @@ BIM Data Manager 📊 , Photographer 📸, Designer 💡, Mechanical Keyboard en
 * Python
 * P﻿andas
 * Html/CSS/JS
+* Suite Office
 * Figma 
 * Suite Adobe
 * Logiciels Affinity, etc.
 
-### Education
+### Éducation
 
 * Certification reportage mojo / 2019
 * Certification fondamentaux marketing numérique / 2019
