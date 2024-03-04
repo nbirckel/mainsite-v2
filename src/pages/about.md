@@ -45,7 +45,7 @@ J'ai également donné des conférences lors d’événements sur mon metier, so
 
 ## Side-projects
 
-* Création et animation d’un espace de Coworking à nancy : [La poudrière](http://www.poudriere.org/),
+* Création et animation d’un espace de Coworking à Nancy : La poudrière (2012-2020),
 * Organisation des Startup Weekend Nancy depuis la première édition en octobre 2012.
 
 [Mon CV détaillé sur Linkedin](https://www.linkedin.com/in/nicolasbirckel/)
