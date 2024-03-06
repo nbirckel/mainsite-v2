@@ -6,35 +6,35 @@
 
   // Set theme aliases
   --color-mode: 'light';
-  --color-bg: #{get-color('light')};
-  --color-bg-glare: #{get-color('light')};
-  --color-text: #{get-color('dark')};
-  --color-text-glare: #{get-color('dark')};
-  --color-selection-text: #{get-color('light')};
-  --color-selection-bg: #{get-color('dark')};
-  --color-stroke: #{get-color('mid')};
-  --color-action-bg: #{get-color('primary')};
-  --color-action-text: #{get-color('light')};
-  --color-theme-primary: #{get-color('primary')};
-  --color-theme-primary-glare: #{get-color('primary-glare')};
-  --color-theme-highlight: #{get-color('highlight')};
-  --color-theme-highlight-block: #{get-color('highlight')};
+  --color-bg: #fdf6e3;
+  --color-bg-glare: #eee8d5;
+  --color-text: #002b36;
+  --color-text-glare: #002b36;
+  --color-selection-text: #tag:#ffffff;
+  --color-selection-bg: #333333;
+  --color-stroke: #cccccc;
+  --color-action-bg: #2b051a;
+  --color-action-text: #fff;
+  --color-theme-primary: #2b051a;
+  --color-theme-primary-glare: #420928;
+  --color-theme-highlight: #48bda1;
+  --color-theme-highlight-block: #2aa198;
 }
 
 @include dark-mode() {
-  --color-bg: #{get-color('dark')};
-  --color-bg-glare: #{get-color('slate')};
-  --color-text: #{get-color('light')};
-  --color-selection-text: #{get-color('dark')};
-  --color-selection-bg: #{get-color('light')};
-  --color-stroke: #{get-color('slate')};
-  --color-theme-primary: #{lighten(get-color('primary'), 50%)};
-  --color-theme-primary-glare: #{lighten(get-color('primary-glare'), 50%)};
+  --color-bg: #333333;
+  --color-bg-glare:  #404040;
+  --color-text: #fdf6e3;
+  --color-selection-text: #333;
+  --color-selection-bg: #fff;
+  --color-stroke: #404040;
+  --color-theme-primary: #2aa198;
+  --color-theme-primary-glare: #2aa198;
   --color-action-bg: var(--color-theme-primary-glare);
-  --color-action-text: #{get-color('dark')};
-  --color-theme-highlight: #{get-color('highlight')};
-  --color-theme-highlight-block: #{get-color('slate')};
-  --color-theme-feature-text: #{get-color('highlight')};
+  --color-action-text: #333;
+  --color-theme-highlight: #48bda1;
+  --color-theme-highlight-block: #404040;
+  --color-theme-feature-text: #2aa198;
 }
 
 body {
