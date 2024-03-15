@@ -21,7 +21,7 @@ Centraliser et présenter sur une même page les divers indicateurs et informati
 
 ## Les sources de données
 
-N'ayant pas d'accès au bases de données / API en direct pour les interroger depuis mon dashboard, j'ai réalisé 3 extractions depuis divers outils métier pour pouvoir exploiter la données avec [pandas](https://pandas.pydata.org/) :
+N'ayant pas d'accès au bases de données / API en direct pour les interroger depuis mon dashboard, j'ai réalisé 3 extractions depuis divers outils métier pour pouvoir exploiter la donnée avec [pandas](https://pandas.pydata.org/) :
 
 **L'intégralité des pièces du patrimoine :**
 
@@ -208,7 +208,5 @@ Une fois l'application lancé via la commande 'panel serve dash.py' on peut acc�
 ![](/images/dashpi-01.png)
 
 ![](/images/dashpi-02.png)
-
-
 
 Pour l'instant, ce PoC n'a pas vocation à être mis en ligne ni même à être utilisé en interne, mais c'était un side projet très intéressant à mener pour découvrir la lib panel et produire un dashboard en utilisant autre chose que powerBI.
