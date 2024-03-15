@@ -59,7 +59,7 @@ N'ayant pas d'accès au bases de données / API en direct pour les interroger de
 | Effectif déclaré       | 266            | int64   |
 | nb de poste de travail | 214            | float64 |
 
-D'après la methode d'après .nunique(), il y a dans notre patrimoine : **259** bâtiments, répartis sur **53** sites pour **1926** salles d'enseignement, dont il faut traiter les données pour les afficher sur notre dashboard.
+D'après la methode .nunique(), il y a dans notre patrimoine : **259** bâtiments, répartis sur **53** sites pour **1926** salles d'enseignement, dont il faut traiter les données pour les afficher sur notre dashboard.
 
 ## Les libs python utilisés :
 
