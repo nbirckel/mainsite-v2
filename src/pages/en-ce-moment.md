@@ -5,22 +5,22 @@ permalink: /now/
 ---
 Bienvenue sur ma [now page](https://nownownow.com/about), inspirée par une visite du site [nownownow.com](https://nownownow.com).
 
-Dernière mise à jour : le 11 juillet 2024.
+Dernière mise à jour : le 28 Mars 2025.
 
 ## Où je vis maintenant :
 
-J'habite toujours en banlieue de Nancy, où j'ai acheté un appartement avec ma compagne en 2022. Mais plus pour très longtemps ;)
+J’habite maintenant à la frontière luxembourgeoise, mais je redescend de temps à autre sur Nancy.
 
 ## Ce que je fais actuellement :
 
-Mon contrat de Gestionnaire de données et d'indicateurs patrimoniaux à l'Université de Lorraine touche à sa fin au 31 août. Après 5 ans, celui-ci ne sera pas renouvelé.
+Je travaille maintenant au CFL depuis le 2 janvier 2025 et je suis actuellement en formation.
 
-C"est l'occasion d'un changement de carrière qui se profile pour début 2025 : Je viens de signer une lettre d'embauche pour un poste au Luxembourg avec une prise de poste effective au 2 janvier.
+Gros focus sur la signalisation et le matériel roulant en ce moment.
 
 ## Ce qui occupe mon temps libre en ce moment :
 
-Ce changement de carrière et de pays de travail occasionne beaucoup de changement logistique, ce qui va pas mal occuper mon temps libre dans les mois à venir, après bien sur des congés bien mérités !\
-\
-On va profiter de ces congés pour se balader beaucoup avec les enfants et ma compagne, avancer dans mon backlog de jeux vidéos et de bouquins, faire du vélo et du sport.\
-\
-A partir de septembre, la priorité sera la recherche d'un nouveau logement à la frontière pour être fin prêt pour janvier.
+Les revisions 😅
+
+La formation est plutôt dense, entre l’apprentissage de la langue luxembourgeoise, de la réglementation ferroviaire, la majeure partie de mon temps libre est donc dédié aux révisions !
+
+J’essaie de garder un peu d’activité physique. Les beaux jours étant de retour je vais reprendre la course à pieds.
