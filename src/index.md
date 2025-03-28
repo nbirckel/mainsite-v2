@@ -6,4 +6,8 @@ postsHeading: Dernières publications
 archiveButtonText: Voir toutes les publications
 socialImage: ""
 ---
-Je travaille actuellement comme Gestionnaire de Données Patrimoniales au sein d'une université, où j'applique mon savoir-faire pour mettre en place procédures et KPI, concevoir des outils d'analyse de données et mener à bien des campagnes de fiabilisation et d'amélioration de la cohérence du jeu de données des 250+ bâtiments présents dans le système d'informations patrimoniales de l'université.
+Après plus de 15 ans dans l’informatique et le design d’interfaces, j’ai décidé de changer d’orientation professionnelle et travaille maintenant au Chemins de Fer Luxembourgeois (CFL) au sein de l’Activité Voyageurs comme Personnel Accompagnateur de Trains.
+
+Je garde un attrait pour les nouvelles technologies et tente de continuer d’alimenter ce blog quand j’ai le temps.
+
+Bonne lecture !
